@@ -1,0 +1,50 @@
+Cliente: Luida Medina, Email: luidamedina@gmail.com, Dirección: calle 4 4556
+Producto: tv, Precio: $15000.0
+Total de la venta: $15000.0
+Medio de pago: efectivo
+-----
+Cliente: Pedro Mendoza, Email: pedromendoza@gmail.com, Dirección: Av Libertador 1345
+Producto: lampara, Precio: $12445.0
+Total de la venta: $12445.0
+Medio de pago: tarjeta
+-----
+Cliente: Ana Suarez, Email: & C:/Users/decim/AppData/Local/Programs/Python/Python312/python.exe "e:/SCIENCIA DATOS/PYTHON-DATA/Practicas/Segunda pre-entrega+Medina_Tenorio/main.py", Dirección: AV Libertador 233
+Producto: celular, Precio: $234000.0
+Total de la venta: $234000.0
+Medio de pago: tarjeta
+-----
+Cliente: Ana Suarez, Email: anasuarez@gmail.com, Dirección: anasuarez@gmail.com
+Producto: celular, Precio: $23455.0
+Total de la venta: $23455.0
+Medio de pago: tarjeta
+-----
+Cliente: Sara Perez, Email: saraperez@gmail.com, Dirección: calle 56 n456
+Producto: , Precio: $230987.0
+Total de la venta: $230987.0
+Medio de pago: tarjeta
+-----
+Cliente: sara Suarez, Email: Sara, Dirección: calle 35
+Producto: tv, Precio: $12896.0
+Total de la venta: $12896.0
+Medio de pago: efectivo
+-----
+Cliente: Pedro Macana, Email: pedromacana@gmail.com, Dirección: calle 34
+Producto: tv, Precio: $23987.0
+Total de la venta: $23987.0
+Medio de pago: tarjeta
+-----
+Cliente: Alex Palo, Email: alexpalo@gmail.com, Dirección: calle 123
+Producto: tv, Precio: $1598741.0
+Total de la venta: $1598741.0
+Medio de pago: tarjeta
+-----
+Cliente: Pedro Canan, Email: pedrocana@gmail.com, Dirección: calle 3778 Jujuy
+Producto: tv, Precio: $12098.0
+Total de la venta: $12098.0
+Medio de pago: tarjeta
+-----
+Cliente: Sara Pedrazo, Email: sarapedrazogmail.com, Dirección: calle 23
+Producto: lapicera, Precio: $23987.0
+Total de la venta: $23987.0
+Medio de pago: tarjeta
+-----
