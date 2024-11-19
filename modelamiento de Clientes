@@ -1,2 +1,6 @@
-git remote add origin
+git init
+git add .
+git commit -m "Primer commit"
+git remote add origin https://github.com/luida-M/Programaci-n-Orientada-a-Objetos-y-clase/blob/main/modelamiento%20de%20Clientes
+git push -u origin master
 
